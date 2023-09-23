@@ -1,0 +1,10 @@
+This is morse code application.
+Features:
+you can convert sentence into morse code and vice versa with easy simple python gui.
+requirement:
+python3
+In a cmd please run this
+pip install PySimpleGUI
+pip install pyperclip
+and install necessary libariries if error occurs
+enjoy!!!!
