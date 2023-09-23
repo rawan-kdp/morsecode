@@ -8,3 +8,4 @@ pip install PySimpleGUI
 pip install pyperclip
 and install necessary libariries if error occurs
 enjoy!!!!
+screen adjustable
